@@ -1,3 +1,10 @@
 paper: https://www.sciencedirect.com/science/article/abs/pii/S0957417415007381
 ### **Dataset Link: https://archive.ics.uci.edu/dataset/489/parkinson+dataset+with+replicated+acoustic+features**
-## **Kaggle Link: https://www.kaggle.com/datasets/hugosouza/parkinson-replicated-acoustic-features-dataset**
+## **Kaggle Link: https://www.kaggle.com/datasets/hugosouza/parkinson-replicated-acoustic-features-dataset
+
+
+paper: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Addressing+voice+recording+replications+for+Parkinson%C3%A2%E2%82%AC%E2%84%A2s+disease+detection.&btnG=
+
+
+Paper:
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+two-stage+variable+selection+and+classification+approach+for+Parkinson%C3%A2%E2%82%AC%E2%84%A2s+disease+detection+by+using+voice+recording+replications.+&btnG=
